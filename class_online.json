@@ -1,0 +1,152 @@
+{
+	"base": {
+		"start": {
+			"date": 4,
+			"month": 9,
+			"year": 2023
+		}
+	},
+	"class_all": {
+		"1": {
+			"class1": {
+				"colourid": 1,
+				"lenth": 3,
+				"name": "大学英语I",
+				"position": "三教110",
+				"teacher": "龙金送"
+			},
+			"class2": {
+				"lenth": -2
+			},
+			"class3": {
+				"colourid": 2,
+				"lenth": 3,
+				"name": "高等数学I上",
+				"position": "三教503",
+				"teacher": "罗操"
+			},
+			"class4": {
+				"colourid": 3,
+				"lenth": 2,
+				"name": "自习",
+				"position": "四训301A",
+				"teacher": "None"
+			},
+			"class5": {
+				"lenth": -4
+			}
+		},
+		"2": {
+			"class1": {
+				"colourid": 4,
+				"lenth": 2,
+				"name": "c语言程序设计",
+				"position": "四训306",
+				"teacher": "张子龙"
+			},
+			"class2": {
+				"lenth": -2
+			},
+			"class3": {
+				"colourid": 2,
+				"lenth": 2,
+				"name": "高等数学",
+				"position": "三教503",
+				"teacher": "罗操"
+			},
+			"class4": {
+				"colourid": 5,
+				"lenth": 2,
+				"name": "体育",
+				"position": "操场",
+				"teacher": "None"
+			},
+			"class5": {
+				"lenth": -6
+			}
+		},
+		"3": {
+			"class1": {
+				"colourid": 6,
+				"lenth": 3,
+				"name": "中国近代史",
+				"position": "二教505",
+				"teacher": "雷扬"
+			},
+			"class2": {
+				"lenth": -1
+			},
+			"class3": {
+				"colourid": 7,
+				"lenth": 2,
+				"name": "国家安全教育",
+				"position": "三教108",
+				"teacher": "陈吉鄂"
+			},
+			"class4": {
+				"colourid": 8,
+				"lenth": 2,
+				"name": "线性代数",
+				"position": "二训601",
+				"teacher": "林沛"
+			},
+			"class5": {
+				"lenth": -6
+			}
+		},
+		"4": {
+			"class1": {
+				"colourid": 4,
+				"lenth": 3,
+				"name": "c语言程序设计",
+				"position": "二训603",
+				"teacher": "张子龙"
+			},
+			"class2": {
+				"lenth": -1
+			},
+			"class3": {
+				"colourid": 3,
+				"lenth": 2,
+				"name": "自习",
+				"position": "四训302",
+				"teacher": "None"
+			},
+			"class4": {
+				"lenth": -8
+			}
+		},
+		"5": {
+			"class1": {
+				"colourid": 8,
+				"lenth": 2,
+				"name": "线性代数",
+				"position": "二训601",
+				"teacher": "林沛"
+			},
+			"class2": {
+				"lenth": -4
+			},
+			"class3": {
+				"colourid": 3,
+				"lenth": 2,
+				"name": "自习",
+				"position": "四训301B",
+				"teacher": "None"
+			},
+			"class4": {
+				"lenth": -6
+			}
+		},
+		"6": {
+			"class1": {
+				"lenth": -14
+			}
+		},
+		"7": {
+			"class1": {
+				"lenth": -14
+			}
+		}
+	}
+}

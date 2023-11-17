@@ -1,0 +1,190 @@
+{
+    "base": {
+        "start": {
+            "year": 2023,
+            "month": 9,
+            "date": 4
+        }
+    },
+    "class_all": {
+        "1": {
+            "class1": {
+                "name": "大学英语I",
+                "lenth": 3,
+                "range_start": 4,
+                "range_end": 18,
+                "position": "三教110",
+                "teacher": "龙金送",
+                "colourid":1
+            },
+            "class2": {
+                "name": "empty",
+                "lenth": -2
+            },
+            "class3": {
+                "name": "高等数学I上",
+                "lenth": 3,
+                "range_start": 4,
+                "range_end": 18,
+                "position": "三教503",
+                "teacher": "罗操",
+                "colourid":2
+            },
+            "class4": {
+                "name": "自习",
+                "lenth": 2,
+                "range_start": 4,
+                "range_end": 18,
+                "position": "四训301A",
+                "teacher": "None",
+                "colourid":3
+            },
+            "class5": {
+                "name": "empty",
+                "lenth": -4
+            }
+        },
+        "2": {
+            "class1": {
+                "name": "c语言程序设计",
+                "lenth": 2,
+                "range_start": 7,
+                "range_end": 14,
+                "position": "四训306",
+                "teacher": "张子龙",
+                "colourid":4
+            },
+            "class2": {
+                "name": "empty",
+                "lenth": -2
+            },
+            "class3": {
+                "name": "高等数学",
+                "lenth": 2,
+                "range_start": 4,
+                "range_end": 18,
+                "position": "三教503",
+                "teacher": "罗操",
+                "colourid":2
+            },
+            "class4": {
+                "name": "体育",
+                "lenth": 2,
+                "range_start": 4,
+                "range_end": 18,
+                "position": "操场",
+                "teacher": "None",
+                "colourid":5
+            },
+            "class5": {
+                "name": "empty",
+                "lenth": -6
+            }
+        },
+        "3": {
+            "class1": {
+                "name": "中国近代史",
+                "lenth": 3,
+                "range_start": 4,
+                "range_end": 18,
+                "position": "二教505",
+                "teacher": "雷扬",
+                "colourid":6
+            },
+            "class2": {
+                "name": "empty",
+                "lenth": -1
+            },
+            "class3": {
+                "name": "国家安全教育",
+                "lenth": 2,
+                "range_start": 5,
+                "range_end": 12,
+                "position": "三教108",
+                "teacher": "陈吉鄂",
+                "colourid":7
+            },
+            "class4": {
+                "name": "线性代数",
+                "lenth": 2,
+                "range_start": 4,
+                "range_end": 14,
+                "position": "二训601",
+                "teacher": "林沛",
+                "colourid":8
+            },
+            "class5": {
+                "name": "empty",
+                "lenth": -6
+            }
+        },
+        "4": {
+            "class1": {
+                "name": "c语言程序设计",
+                "lenth": 3,
+                "range_start": 4,
+                "range_end": 13,
+                "position": "二训603",
+                "teacher": "张子龙",
+                "colourid":4
+            },
+            "class2": {
+                "name": "empty",
+                "lenth": -1
+            },
+            "class3": {
+                "name": "自习",
+                "lenth": 2,
+                "range_start": 4,
+                "range_end": 18,
+                "position": "四训302",
+                "teacher": "None",
+                "colourid":3
+            },
+            "class4": {
+                "name": "empty",
+                "lenth": -8
+            }
+        },
+        "5": {
+            "class1": {
+                "name": "线性代数",
+                "lenth": 2,
+                "range_start": 4,
+                "range_end": 18,
+                "position": "二训601",
+                "teacher": "林沛",
+                "colourid":8
+            },
+            "class2": {
+                "name": "empty",
+                "lenth": -4
+            },
+            "class3": {
+                "name": "自习",
+                "lenth": 2,
+                "range_start": 4,
+                "range_end": 18,
+                "position": "四训301B",
+                "teacher": "None",
+                "colourid":3
+            },
+            "class4": {
+                "name": "empty",
+                "lenth": -6
+            }
+        },
+        "6": {
+            "class1": {
+                "name": "empty",
+                "lenth": -14
+            }
+        },
+        "7": {
+            "class1": {
+                "name": "empty",
+                "lenth": -14
+            }
+        }
+    }
+}
